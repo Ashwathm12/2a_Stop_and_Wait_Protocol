@@ -40,10 +40,12 @@ while True:
 ```
 ## OUTPUT
 # client:
-![2aclient](https://github.com/Ashwathm12/2a_Stop_and_Wait_Protocol/assets/138849225/e639df51-63f0-4324-abac-834cde586540)
+![2aclient](https://github.com/Ashwathm12/2a_Stop_and_Wait_Protocol/assets/138849225/5489d72c-4f59-449a-8454-082e56fe8631)
+
 
 # server:
-![2aserver](https://github.com/Ashwathm12/2a_Stop_and_Wait_Protocol/assets/138849225/d6ee7066-d9a6-47f2-8a81-81819aac2d58)
+![2aserver](https://github.com/Ashwathm12/2a_Stop_and_Wait_Protocol/assets/138849225/8acdb107-f357-4268-9f6a-c4b8282c877e)
+
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
